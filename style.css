@@ -12,12 +12,13 @@ h1{
     padding-left: 10px;
 }
 .color-blue{
-    color: rgb(41, 60, 226);
+    color: rgb(122, 133, 233);
 }
 h2{
     font-size: 30px;
     font-family: 'Yeseva One', cursive;
     text-align: center;
+    padding-bottom: 25px;
 }
 h3{
     font-size: 18px;
@@ -43,7 +44,7 @@ p{
     text-decoration: none;
     color: whitesmoke;
     font-weight: 700;
-    background-image: linear-gradient(rgb(43, 69, 153), rgb(94, 135, 248));
+    background-image: linear-gradient(rgb(94, 116, 190), rgb(151, 167, 211));
     padding: 10px 35px;
     border-radius: 5px;
 }
@@ -51,8 +52,8 @@ p{
     width: 50%;
     margin-left: 2%;
     margin-right: 2%;
-    margin-bottom: 10%;
-    background-color: rgb(247, 233, 235);
+    margin-bottom: 20%;
+    background-color: rgb(222, 211, 231);
     border-radius: 15px;
     padding: 3% 5%;
 }
@@ -60,8 +61,8 @@ p{
     width: 50%;
     margin-left: 2%;
     margin-right: 2%;
-    margin-bottom: 10%;
-    background-color: rgb(247, 233, 235);
+    margin-bottom: 20%;
+    background-color: rgb(180, 221, 224);
     border-radius: 15px;
     padding: 3% 5%;
 }
@@ -69,8 +70,8 @@ p{
     width: 50%;
     margin-left: 2%;
     margin-right: 2%;
-    margin-bottom: 10%;
-    background-color: rgb(247, 233, 235);
+    margin-bottom: 20%;
+    background-color: rgb(191, 204, 182);
     border-radius: 15px;
     padding: 3% 5%;
 }
