@@ -76,3 +76,12 @@ p{
     padding: 3% 5%;
 }
 
+footer{
+    text-align: center;
+    background-color: rgb(63, 62, 62);
+    padding-top: 0.5%;
+    color: rgb(222, 211, 231);
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Yeseva One', cursive;
+}
