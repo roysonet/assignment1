@@ -1,0 +1,37 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#E5E5E5;
+    padding: 3% 5% 0px 5%;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Yeseva One', cursive;
+}
+.h1-border{
+    border-left: red solid 4px;
+    padding-left: 10px;
+}
+.color-h1{
+    color: rgb(184, 20, 20);
+}
+.flex{
+    display: flex;
+    margin-bottom: 10px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 78%;
+}
+.button{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(121, 17, 17), rgb(233, 101, 84));
+    padding: 10px 40px;
+    border-radius: 5px;
+}
